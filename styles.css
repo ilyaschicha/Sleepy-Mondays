@@ -52,3 +52,16 @@ figure, p { margin: 0; }
   transform: scale(.5) translate(-50%, -50%);
   filter: blur(10px);
 }
+#landing #content {
+  margin-top: 16vh;
+  padding-bottom: 20vh;
+}
+#landing button {
+  background-color: whit;
+  color: #292929;
+  border: 2px solid whit;
+}
+#landing button:hover {
+  background-color: transparent;
+  color: white;
+}
