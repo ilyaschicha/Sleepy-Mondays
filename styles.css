@@ -57,9 +57,9 @@ figure, p { margin: 0; }
   padding-bottom: 20vh;
 }
 #landing button {
-  background-color: whit;
+  background-color: white;
   color: #292929;
-  border: 2px solid whit;
+  border: 2px solid white;
 }
 #landing button:hover {
   background-color: transparent;
